@@ -1,2 +1,3 @@
 # hello-world
-learning
+
+It's a beautiful day !
